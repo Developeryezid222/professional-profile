@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## **personal information**
 
 
-+ Date of Birth: 1996
++ Date of Birth: 
 + [![Email](https://img.shields.io/badge/perezyezid23@gmail.com-email_personal_(respuesta_rapida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](perezyezid23@gmail.com)
 + City : Barranquilla / colombia
 -------------------------------------------------------
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 _____________________________________________________
 ### **💫Professional profile**
 
-Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion, diseño orientada a objetos y con actitud para aprender.
+ Desarrollador de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion, diseño orientada a objetos y con actitud para aprender.
 
 
 ### **academic training**
@@ -35,9 +35,7 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 | institucion                      |      Grado      |  finalizacion |
 |--------------------------------- |:---------------:|--------------:|
-| SENA           (Practicante)       |  Tecnologo      |      2024     |
-
-
+| SENA           (Aprendiz)       |  Tecnologo      |      2024     |
 
 
 
