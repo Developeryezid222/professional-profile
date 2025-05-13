@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 _____________________________________________________
 ### **💫Professional profile**
 
- Desarrollador de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion, diseño orientada a objetos y con actitud para aprender.
+Software developer. I am a self-taught individual with a strong capacity for learning and teamwork. I am currently learning about databases, systems automation, and programming analysis, object-oriented design, and I have a willingness to learn.
 
 
 ### **academic training**
@@ -65,10 +65,10 @@ const Developeryezid = {
 
 ### ***another formation***
 
-+ Proactivo
-+ Ganas de aprender
-+ Actitud para trabajar en equipo
-+ Compromiso y responsabilidad en mis funciones.
++ Proactive
++ Eagerness to learn
++ Teamwork attitude
++ Commitment and responsibility in my roles.
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
